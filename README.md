@@ -79,11 +79,16 @@ Merhaba! Ben Selman, tutkulu bir yazılım geliştirici ve yapay zeka meraklıs�
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SelmanKaya&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<a href="https://github.com/SelmanKaya">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SelmanKaya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelmanKaya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SelmanKaya&theme=tokyonight&hide_border=true)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SelmanKaya&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SelmanKaya&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -91,7 +96,7 @@ Merhaba! Ben Selman, tutkulu bir yazılım geliştirici ve yapay zeka meraklıs�
 
 <div align="center">
   
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SelmanKaya&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SelmanKaya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -99,11 +104,11 @@ Merhaba! Ben Selman, tutkulu bir yazılım geliştirici ve yapay zeka meraklıs�
 
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SelmanKaya&theme=tokyo-night&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SelmanKaya&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-## 💡 Rastgele Dev Quote
+## 💡 Dev Quote
 
 <div align="center">
 
