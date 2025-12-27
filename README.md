@@ -78,37 +78,54 @@ Merhaba! Ben Selman, tutkulu bir yazılım geliştirici ve yapay zeka meraklıs�
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  
-<a href="https://github.com/SelmanKaya">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SelmanKaya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelmanKaya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
+
+### 🔥 Contribution Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SelmanKaya/SelmanKaya/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SelmanKaya/SelmanKaya/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SelmanKaya/SelmanKaya/output/github-contribution-grid-snake.svg">
+</picture>
+
+### 📈 GitHub Metrikleri
+
+| İstatistik | Değer |
+|------------|-------|
+| 🎯 **Total Commits** | ![Commits](https://img.shields.io/github/commit-activity/t/SelmanKaya/SelmanKaya?style=flat-square&logo=github) |
+| ⭐ **Total Stars** | ![Stars](https://img.shields.io/github/stars/SelmanKaya?affiliations=OWNER&style=flat-square&logo=github) |
+| 🔱 **Followers** | ![Followers](https://img.shields.io/github/followers/SelmanKaya?style=flat-square&logo=github) |
+| 📦 **Public Repos** | ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SelmanKaya&query=$.public_repos&style=flat-square&logo=github&label=repos) |
 
 </div>
+
+## 🏆 Kodlama Aktivitesi
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SelmanKaya&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+```text
+🌞 Sabah       ████████░░░░░░░░░░░░░   35%
+🌆 Öğleden Sonra ████████████░░░░░░░░   45%
+🌃 Akşam       ██████░░░░░░░░░░░░░░░   15%
+🌙 Gece        ████░░░░░░░░░░░░░░░░░    5%
+```
 
 </div>
 
-## 🏆 GitHub Başarılarım
+## 💻 En Çok Kullandığım Teknolojiler
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=SelmanKaya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+```text
+Python         ███████████████░░░░░   65%
+JavaScript     ███████████░░░░░░░░░   48%
+TypeScript     ████████░░░░░░░░░░░░   35%
+C/C++          ██████░░░░░░░░░░░░░░   25%
+HTML/CSS       █████░░░░░░░░░░░░░░░   22%
+```
 
 </div>
 
-## 📈 Aktivite Grafiği
-
-<div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SelmanKaya&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-## 💡 Dev Quote
+## 💡 Rastgele Dev Quote
 
 <div align="center">
 
